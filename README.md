@@ -1,0 +1,1 @@
+Crafted a user-friendly login form application in Java, focusing on intuitive design and functionality. Utilised Spring Boot for efficient backend processing, enabling secure user authentication and access control through seamless integration with SQL databases
